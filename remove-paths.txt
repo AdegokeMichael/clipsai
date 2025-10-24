@@ -1,0 +1,6 @@
+clipsai/sandbox/resize.ipynb
+clipsai/sandbox/clipsai.ipynb
+clipsai/sandbox/resizer.ipynb
+sandbox/clipsai.ipynb
+sandbox/resize.ipynb
+sandbox/resizer.ipynb
